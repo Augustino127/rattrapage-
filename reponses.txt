@@ -1,0 +1,5 @@
+a) "git pull" est la commande qui récupère et fusionne , quand à "git fetch"
+
+b) Pour annuler les modifications locales non validés dans git, il faut 
+c)Pour supprimer une branche distante dans git il faut soumettre dans git bash la commande git remove -b "nom de la branche"
+d) il faut utiliser la commande "git log"
